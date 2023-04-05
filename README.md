@@ -2,9 +2,10 @@
 
 Welcome to my Github profile
 
-🌱 I’m currently learning software development fundamentals.
-🤔 I’m looking for help with good ideas and inspiration.
-⚡ Fun fact: I love surfing and listen to music.
+<h2>🌱 I’m currently learning software development fundamentals.</h2>
+<h2>🤔 I’m looking for help with good ideas and inspiration.</h2>
+<h2>⚡ Fun fact: I love surfing and listen to music.</h2>
+
 <!--
 **pedromelocf/pedromelocf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
