@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/pedromelocf">
 
   
- <h3> Estou aprendendo </h3>
+ <h3> Lerning </h3>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>        
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
@@ -34,6 +34,8 @@ Here are some ideas to get you started:
 <h3> Stats </h3> 
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedromelocf&layout=compact&langs_count=7&theme=dracula"/>
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=pedromelocf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+ 
+<hr>  
   
 </div>
 
