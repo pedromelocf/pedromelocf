@@ -1,4 +1,4 @@
-### Hi there, my name is Pedro! This is my Linkedin profile -> <a href="https://www.linkedin.com/in/pedro-melo-325531192" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   👋
+### 👋 Hi there, my name is Pedro! This is my Linkedin profile <a href="https://www.linkedin.com/in/pedro-melo-325531192" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 Welcome to my Github profile
 
 <!--
