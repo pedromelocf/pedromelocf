@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
             
 <hr>
+  
+<h3> Stats </h3> 
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedromelocf&layout=compact&langs_count=7&theme=dracula"/>
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=pedromelocf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   
