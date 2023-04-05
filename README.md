@@ -1,4 +1,4 @@
-### Hi there, my name is Pedro! 👋
+### Hi there, my name is Pedro! This is my Linkedin profile -> <a href="https://www.linkedin.com/in/pedro-melo-325531192" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   👋
 Welcome to my Github profile
 
 <!--
@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 <hr>
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedromelocf&layout=compact&langs_count=7&theme=dracula"/>
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=pedromelocf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
- <a href="https://www.linkedin.com/in/pedro-melo-325531192" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  
 </div>
