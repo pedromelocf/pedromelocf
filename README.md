@@ -1,10 +1,10 @@
 ### 👋 Hi there, my name is Pedro! This is my Linkedin profile <a href="https://www.linkedin.com/in/pedro-melo-325531192" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 
-Welcome to my Github profile
 
-<h2>🌱 I’m currently learning software development fundamentals.</h2>
-<h2>🤔 I’m looking for help with good ideas and inspiration.</h2>
-<h2>⚡ Fun fact: I love surfing and listen to music.</h2>
+
+<h4>🌱 I’m currently learning software development fundamentals.</h4>
+<h4>🤔 I’m looking for help with good ideas and inspiration.</h4>
+<h4>⚡ Fun fact: I love surfing and listen to music.</h4>
 
 <!--
 **pedromelocf/pedromelocf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
