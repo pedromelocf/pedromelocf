@@ -1,25 +1,29 @@
 ### 👋 Hi there, my name is Pedro! This is my Linkedin profile <a href="https://www.linkedin.com/in/pedro-melo-325531192" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+
 Welcome to my Github profile
 
+🌱 I’m currently learning software development fundamentals.
+🤔 I’m looking for help with good ideas and inspiration.
+⚡ Fun fact: I love surfing and listen to music.
 <!--
 **pedromelocf/pedromelocf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 
+
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- ⚡ Fun fact: I love surfing and listen to music.
+- 
 -->
 
 <div>
 <a href="https://github.com/pedromelocf">
 
   
-  <h3> Estou aprendendo </h3>
+ <h3> Estou aprendendo </h3>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>        
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
@@ -33,4 +37,4 @@ Here are some ideas to get you started:
   
 </div>
 
- ![Snake animation](https://github.com/pedromelocf/pedromelocf/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/pedromelocf/pedromelocf/blob/output/github-contribution-grid-snake.svg)
