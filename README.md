@@ -6,7 +6,7 @@
 
 <h4>🌱 I’m currently learning software development fundamentals.</h4>
 <h4>🤔 I’m looking for help with good ideas and inspiration.</h4>
-<h4>⚡ Fun fact: I love surfing and listen to music.</h4>
+<h4>⚡ Fun fact: I have a degree in Nutrition Science, and I love surfing and listen to music.</h4>
 
 <!--
 **pedromelocf/pedromelocf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
