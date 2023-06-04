@@ -7,7 +7,10 @@
 <h4>🤔 I’m looking for help with good ideas and inspiration.</h4>
 <h4>⚡ Fun fact: I have a degree in Nutrition Science, and I love surfing and listen to music.</h4>
 </div>
+ 
 
+[![pmelo-ca's 42 stats](https://badge42.vercel.app/api/v2/clihv3wi1001608lcdbe6sir1/stats?cursusId=9&coalitionId=undefined)](https://github.com/JaeSeoKim/badge42)
+ 
 <div>
 <a href="https://github.com/pedromelocf">
 <h3> Stats </h3> 
