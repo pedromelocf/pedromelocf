@@ -10,6 +10,8 @@
  
 
 [![pmelo-ca's 42 stats](https://badge42.vercel.app/api/v2/clihv3wi1001608lcdbe6sir1/stats?cursusId=9&coalitionId=undefined)](https://github.com/JaeSeoKim/badge42)
+<img height="200em" src="https://i.imgur.com/Y1TAMmm.png"/>
+
  
 <div>
 <a href="https://github.com/pedromelocf">
