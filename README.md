@@ -8,11 +8,6 @@
 <h4>⚡ Fun fact: I have a degree in Nutrition Science, and I love surfing and listen to music.</h4>
 </div>
  
-
-[![pmelo-ca's 42 stats](https://badge42.vercel.app/api/v2/clihv3wi1001608lcdbe6sir1/stats?cursusId=9&coalitionId=undefined)](https://github.com/JaeSeoKim/badge42)
-<img height="200em" src="https://i.imgur.com/Y1TAMmm.png"/>
-
- 
 <div>
 <a href="https://github.com/pedromelocf">
 
@@ -39,5 +34,15 @@
 </div>
            
 <hr>  
+
+
+<h3> I’m currently learning software development fundamentals as a cadet at 42|SP and you can see my rep clicking here.</h3>
+
+[![pmelo-ca's 42 stats](https://badge42.vercel.app/api/v2/clihv3wi1001608lcdbe6sir1/stats?cursusId=21&coalitionId=undefined)](https://github.com/JaeSeoKim/badge42)
+
+<h3> I swimmed the piscine in June 2023 and you can see my rep clicking here.</h3>
+
+[![pmelo-ca's 42 stats](https://badge42.vercel.app/api/v2/clihv3wi1001608lcdbe6sir1/stats?cursusId=9&coalitionId=undefined)](https://github.com/JaeSeoKim/badge42)
+<img height="200em" src="https://i.imgur.com/Y1TAMmm.png"/>
 
 ![Snake animation](https://github.com/pedromelocf/pedromelocf/blob/output/github-contribution-grid-snake.svg)
