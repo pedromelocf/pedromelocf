@@ -46,17 +46,23 @@ $~$
 
 <hr>
 
-<h3> 4️⃣2️⃣ course rep clicking at the badge.</h3>
+<h3> 4️⃣2️⃣ projects </h3>
 
-[![pmelo-ca's 42 stats](https://badge42.vercel.app/api/v2/clihv3wi1001608lcdbe6sir1/stats?cursusId=21&coalitionId=undefined)](https://github.com/pedromelocf/42-piscine-reloaded) <img src="https://gifdb.com/images/high/retro-pixel-landscape-background-0g0dpo6tlg0pbmfp.gif" alt="Alt Text" width="300" />
+<p align="center">
+  <img src="https://github.com/pedromelocf/utilities/blob/master/libfte.png" />
+  <img src="https://github.com/pedromelocf/utilities/blob/master/get_next_linem.png" />
+</p>
 
 $~$
 
 <hr>
 
-<h3> I swimmed at 4️⃣2️⃣ piscine in June 2023 and you can see my rep clicking at the badge.</h3>
- 
-<img height="200em" src="https://i.imgur.com/Y1TAMmm.png"/> [![pmelo-ca's 42 stats](https://badge42.vercel.app/api/v2/clihv3wi1001608lcdbe6sir1/stats?cursusId=9&coalitionId=undefined)](https://github.com/pedromelocf/42-piscine)
+<h3> I swimmed at 4️⃣2️⃣ piscine in June 2023 </h3>
+
+<p align="center">
+   <img height="150em" src="https://i.imgur.com/Y1TAMmm.png"/> 
+</p>
+
 
 $~$
 
