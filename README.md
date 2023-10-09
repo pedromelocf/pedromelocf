@@ -1,3 +1,4 @@
+
 <div>
 <h2> 👋 Hi there, my name is Pedro! Check my Linkedin profile and connect with me</h2>
 <a href="https://www.linkedin.com/in/pedro-melo-325531192" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -7,6 +8,8 @@
 <h4>🤔 I’m looking for help with good ideas and inspiration.</h4>
 <h4>⚡ Fun fact: I have a degree in Nutrition Science, and I love surfing and listen to music.</h4>
 </div>
+
+![](https://komarev.com/ghpvc/?username=pedromelocf)
 
 <hr>
 
