@@ -12,13 +12,12 @@ jobs:
     steps:
       - name: Snake Animation
         uses: Platane/snk@master
-        id: snake-gif
         with:
           github_user_name: pedromelocf
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-      - name: Set Snake GIF URL
-        run: echo "SNAKE_GIF_URL=${{ steps.snake-gif.outputs.url }}" >> $GITHUB_ENV
+      - name: Save Snake GIF URL
+        run: echo "SNAKE_GIF_URL=$(cat dist/github-contribution-grid-snake.svg)" >> $GITHUB_ENV
 
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v4
