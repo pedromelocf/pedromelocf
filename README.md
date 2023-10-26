@@ -18,7 +18,7 @@
 
 <h3> 🏅 Skills/Experiences </h3>
  
-![static badge](https://img.shields.io/badge/C-Language-black) ![static badge](https://img.shields.io/badge/GitHub-grey) ![static badge](https://img.shields.io/badge/Shell-green) ![static badge](https://img.shields.io/badge/React-blue) ![static badge](https://img.shields.io/badge/JavaScript-yellow) 
+![static badge](https://img.shields.io/badge/C-Language-black) ![static badge](https://img.shields.io/badge/GitHub-grey) ![static badge](https://img.shields.io/badge/Shell-green) ![static badge](https://img.shields.io/badge/React-blue) ![static badge](https://img.shields.io/badge/JavaScript-yellow) ![static badge](https://img.shields.io/badge/Debian-red)  ![static badge](https://img.shields.io/badge/MariaDB-blue)  
 
 $~$
                     
@@ -30,7 +30,7 @@ $~$
  
 <h3> 📖 Learning </h3>    
  
-![static badge](https://img.shields.io/badge/C-Language-black) ![static badge](https://img.shields.io/badge/Java-orange) ![static badge](https://img.shields.io/badge/Shell-green) ![static badge](https://img.shields.io/badge/Makefile-grey) 
+![static badge](https://img.shields.io/badge/C-Language-black) ![static badge](https://img.shields.io/badge/Shell-green) ![static badge](https://img.shields.io/badge/Makefile-grey) 
 
 </div>
 
