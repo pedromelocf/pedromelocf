@@ -17,7 +17,9 @@ jobs:
           svg_out_path: dist/github-contribution-grid-snake.svg
 
       - name: Save Snake GIF URL
-        run: echo "SNAKE_GIF_URL=$(cat dist/github-contribution-grid-snake.svg)" >> $GITHUB_ENV
+        run: |
+          snake_gif_url=$(cat dist/github-contribution-grid-snake.svg)
+          echo "SNAKE_GIF_URL=$snake_gif_url" >> $GITHUB_ENV
 
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v4
