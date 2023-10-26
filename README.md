@@ -18,7 +18,7 @@
 
 <h3> 🏅 Skills/Experiences </h3>
  
-![static badge](https://img.shields.io/badge/C-Language-black) ![static badge](https://img.shields.io/badge/GitHub-grey) ![static badge](https://img.shields.io/badge/Shell-green) ![static badge](https://img.shields.io/badge/React-blue) ![static badge](https://img.shields.io/badge/JavaScript-yellow) ![static badge](https://img.shields.io/badge/Debian-red)  ![static badge](https://img.shields.io/badge/MariaDB-blue)  
+![static badge](https://img.shields.io/badge/C%7CLang-black?style=for-the-badge&logo=&logoColor=white) ![static badge](https://img.shields.io/badge/Github-grey?style=for-the-badge&logo=&logoColor=white) ![static badge](https://img.shields.io/badge/Shell-green?style=for-the-badge&logo=&logoColor=white) ![static badge](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=&logoColor=white) ![static badge](https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=&logoColor=white) ![static badge](https://img.shields.io/badge/Debian-red?style=for-the-badge&logo=&logoColor=white)  ![static badge](https://img.shields.io/badge/MariaDB-blue?style=for-the-badge&logo=&logoColor=white)  
 
 $~$
                     
@@ -30,7 +30,7 @@ $~$
  
 <h3> 📖 Learning </h3>    
  
-![static badge](https://img.shields.io/badge/C-Language-black) ![static badge](https://img.shields.io/badge/Shell-green) ![static badge](https://img.shields.io/badge/Makefile-grey) 
+![static badge](https://img.shields.io/badge/C%7CLang-black?style=for-the-badge&logo=&logoColor=white) ![static badge](https://img.shields.io/badge/Shell-green?style=for-the-badge&logo=&logoColor=white) ![static badge](https://img.shields.io/badge/Makefile-grey?style=for-the-badge&logo=&logoColor=white)
 
 </div>
 
@@ -42,7 +42,7 @@ $~$
  
 <h3> 🛠️ Tools </h3>    
  
-![static badge](https://img.shields.io/badge/Notion-black) ![static badge](https://img.shields.io/badge/VS-Code-blue) ![static badge](https://img.shields.io/badge/Trello-blue) ![static badge](https://img.shields.io/badge/Linux-Ubuntu-orange)
+![static badge](https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=&logoColor=white) ![static badge](https://img.shields.io/badge/VS-CODE-blue?style=for-the-badge&logo=&logoColor=white) ![static badge](https://img.shields.io/badge/Trello-blue?style=for-the-badge&logo=&logoColor=white) ![static badge](https://img.shields.io/badge/Linux-Ubuntu-orange?style=for-the-badge&logo=&logoColor=white)
 
 </div>
 
