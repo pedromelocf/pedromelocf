@@ -56,6 +56,7 @@ $~$
   <img src="https://github.com/pedromelocf/utilities/blob/master/libfte.png" />
   <img src="https://github.com/pedromelocf/utilities/blob/master/get_next_linem.png" />
   <img src="https://github.com/pedromelocf/utilities/blob/master/ft_printfm.png" />
+  <img src="https://github.com/pedromelocf/utilities/blob/master/born2berootm.png" />
 </p>
 
 $~$
