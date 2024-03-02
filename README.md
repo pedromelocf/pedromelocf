@@ -111,9 +111,3 @@ $~$
 $~$
 
 ![Snake animation](https://github.com/pedromelocf/pedromelocf/blob/output/github-contribution-grid-snake.svg)
-
-<script>
-function redirectToRepository(url) {
-    window.location.href = url;
-}
-</script>
