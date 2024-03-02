@@ -20,7 +20,7 @@
  
 ![static badge](https://img.shields.io/badge/C%7CLang-black?style=for-the-badge&logo=&logoColor=white) ![static badge](https://img.shields.io/badge/Github-grey?style=for-the-badge&logo=&logoColor=white) ![static badge](https://img.shields.io/badge/Shell-green?style=for-the-badge&logo=&logoColor=white) ![static badge](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=&logoColor=white) ![static badge](https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=&logoColor=white) ![static badge](https://img.shields.io/badge/Debian-red?style=for-the-badge&logo=&logoColor=white)  ![static badge](https://img.shields.io/badge/MariaDB-blue?style=for-the-badge&logo=&logoColor=white)  
 
-$~$
+</br>
                     
 </div>         
  
@@ -34,7 +34,7 @@ $~$
 
 </div>
 
-$~$
+</br>
            
 <hr>  
 
@@ -46,7 +46,7 @@ $~$
 
 </div>
 
-$~$
+</br>
 
 <hr>
 
@@ -83,7 +83,7 @@ $~$
  
 </p>
 
-$~$
+</br>
 
 <hr>
 
@@ -93,8 +93,7 @@ $~$
    <img height="150em" src="https://i.imgur.com/Y1TAMmm.png"/> 
 </p>
 
-
-$~$
+</br>
 
 <hr>
 
@@ -108,6 +107,6 @@ $~$
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=pedromelocf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-$~$
+</br>
 
 ![Snake animation](https://github.com/pedromelocf/pedromelocf/blob/output/github-contribution-grid-snake.svg)
