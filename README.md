@@ -57,7 +57,7 @@ $~$
  </p>
 
 <p align="center">
-  <img src="https://github.com/pedromelocf/utilities/blob/master/libfte.png" />
+  <img src="https://github.com/pedromelocf/utilities/blob/master/libfte.png" onclick="redirectoToRepositoty(https://github.com/pedromelocf/42_libft)" />
   <img src="https://github.com/pedromelocf/utilities/blob/master/get_next_linem.png" />
   <img src="https://github.com/pedromelocf/utilities/blob/master/ft_printfm.png" />
   <img src="https://github.com/pedromelocf/utilities/blob/master/born2berootm.png" />
@@ -93,3 +93,9 @@ $~$
 $~$
 
 ![Snake animation](https://github.com/pedromelocf/pedromelocf/blob/output/github-contribution-grid-snake.svg)
+
+<script>
+function redirectToRepository(url) {
+    window.location.href = url;
+}
+</script>
