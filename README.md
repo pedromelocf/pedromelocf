@@ -53,11 +53,16 @@ $~$
 <h3> 4️⃣2️⃣ projects </h3>
 
 <p align="center">
+ <img src="https://github.com/pedromelocf/utilities/blob/master/phase_onee.png" />
+ </p>
+
+<p align="center">
   <img src="https://github.com/pedromelocf/utilities/blob/master/libfte.png" />
   <img src="https://github.com/pedromelocf/utilities/blob/master/get_next_linem.png" />
   <img src="https://github.com/pedromelocf/utilities/blob/master/ft_printfm.png" />
   <img src="https://github.com/pedromelocf/utilities/blob/master/born2berootm.png" />
   <img src="https://github.com/pedromelocf/utilities/blob/master/fdfe.png" />
+  <img src="https://github.com/pedromelocf/utilities/blob/master/pipexe.png" />
 </p>
 
 $~$
