@@ -57,12 +57,30 @@ $~$
  </p>
 
 <p align="center">
-  <img src="https://github.com/pedromelocf/utilities/blob/master/libfte.png" onclick="redirectoToRepositoty(https://github.com/pedromelocf/42_libft)" />
+  <a href="https://github.com/pedromelocf/42_libft" target="_blank">
+    <img src="https://github.com/pedromelocf/utilities/blob/master/libfte.png" alt="Libft" />
+  </a>
+ 
+ <a href="https://github.com/pedromelocf/42_get_next_line" target="_blank">
   <img src="https://github.com/pedromelocf/utilities/blob/master/get_next_linem.png" />
+ </a>
+
+ <a href="https://github.com/pedromelocf/42_printf" target="_blank">
   <img src="https://github.com/pedromelocf/utilities/blob/master/ft_printfm.png" />
+ </a>
+
+ <a href="https://github.com/pedromelocf/42_borntoberoot" target="_blank">
   <img src="https://github.com/pedromelocf/utilities/blob/master/born2berootm.png" />
+ </a>
+
+ <a href="https://github.com/pedromelocf/42_fdf" target="_blank">
   <img src="https://github.com/pedromelocf/utilities/blob/master/fdfe.png" />
+ </a>
+
+ <a href="https://github.com/pedromelocf/42_pipex" target="_blank">
   <img src="https://github.com/pedromelocf/utilities/blob/master/pipexe.png" />
+ </a>
+ 
 </p>
 
 $~$
