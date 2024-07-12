@@ -2,15 +2,16 @@
 <div>
 <h2> 👋 Hi there, my name is Pedro! Check my Linkedin profile and connect with me</h2>
 <a href="https://www.linkedin.com/in/pedro-melo-325531192" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href="https://www.youtube.com/@edgecolive" target="_blank"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>   
- <a href="https://www.pedromelodev.com" target="_blank"><img src="https://img.shields.io/badge/site%7Cblog-purple?style=for-the-badge&logo=&logoColor=white" target="_blank"></a>   
+ <a href="https://www.youtube.com/@pedromelodev" target="_blank"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>   
+ <a href="https://www.pedromelodev.com" target="_blank"><img src="https://img.shields.io/badge/site%7Cblog-green?style=for-the-badge&logo=&logoColor=white" target="_blank"></a>   
+ <a href="https://www.twitch.tv/pedromelodev" target="_blank"><img src="https://img.shields.io/badge/Twitch-purple?style=for-the-badge&logo=&logoColor=white" target="_blank"></a>   
 
 <h4>🌱 I’m currently learning software development fundamentals as a cadet at 42|SP.</h4>
 <h4>🤔 I’m looking for help with good ideas and inspiration.</h4>
 <h4>⚡ Fun fact: I have a degree in Nutrition Science, and I love surfing and listen to music.</h4>
 </div>
 
-![](https://komarev.com/ghpvc/?username=pedromelocf)
+![](https://komarev.com/ghpvc/?username=pedromelocf) [![wakatime](https://wakatime.com/badge/user/535bb0e6-1855-46f9-aab7-f3b13c141d8e.svg)](https://wakatime.com/@535bb0e6-1855-46f9-aab7-f3b13c141d8e)
 
 <hr>
 
