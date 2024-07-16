@@ -6,7 +6,9 @@
  <a href="https://www.pedromelodev.com" target="_blank"><img src="https://img.shields.io/badge/site%7Cblog-green?style=for-the-badge&logo=&logoColor=white" target="_blank"></a>   
  <a href="https://www.twitch.tv/pedromelodev" target="_blank"><img src="https://img.shields.io/badge/Twitch-purple?style=for-the-badge&logo=&logoColor=white" target="_blank"></a>   
 
-<h4>🌱 I’m currently learning software development fundamentals as a cadet at 42|SP.</h4>
+<h4>👨🏼‍💻 I’m currently learning software engineering at <a href="https://www.42network.org" target="_blank">42 Network</a></h4>
+<p>42 is a revolutionary approach to IT education that sets itself apart from traditional coding schools. Based on peer-to-peer learning, 42’s model encourages self-directed learning and active engagement with the curriculum. 42 campuses around the world offer a new way of learning for individuals who struggle with the traditional classroom environment. 
+As a result, 42 students develop key soft skills, such as critical thinking, creativity, curiosity, collaboration and communication. They come out of the training with a unique mindset that makes them more creative, more agile and more adaptable than students from traditional universities.</p>
 <h4>🤔 I’m looking for help with good ideas and inspiration.</h4>
 <h4>⚡ Fun fact: I have a degree in Nutrition Science, and I love surfing and listen to music.</h4>
 </div>
