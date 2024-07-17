@@ -1,9 +1,8 @@
 
 <div>
 <h2> 👋 Hi there, my name is Pedro! Check my Linkedin profile and connect with me</h2>
-<a href="https://www.linkedin.com/in/pedro-melo-325531192" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href="https://www.youtube.com/@pedromelodev" target="_blank"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>   
- <a href="https://www.pedromelodev.com" target="_blank"><img src="https://img.shields.io/badge/site%7Cblog-green?style=for-the-badge&logo=&logoColor=white" target="_blank"></a>   
+<a href="https://www.linkedin.com/in/pedro-melo-325531192" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+ <a href="https://www.pedromelodev.com" target="_blank"><img src="https://img.shields.io/badge/site%7Cblog-black?style=for-the-badge&logo=&logoColor=white" target="_blank"></a>   
  <a href="https://www.twitch.tv/pedromelodev" target="_blank"><img src="https://img.shields.io/badge/Twitch-purple?style=for-the-badge&logo=&logoColor=white" target="_blank"></a>   
 
 <h4>👨🏼‍💻 I’m currently learning software engineering at <a href="https://www.42network.org" target="_blank">42 Network</a></h4>
@@ -21,36 +20,11 @@ As a result, 42 students develop key soft skills, such as critical thinking, cre
 
 <h3> 🏅 Skills/Experiences </h3>
  
-![static badge](https://img.shields.io/badge/C%7CLang-black?style=for-the-badge&logo=&logoColor=white) ![static badge](https://img.shields.io/badge/Github-grey?style=for-the-badge&logo=&logoColor=white) ![static badge](https://img.shields.io/badge/Shell-green?style=for-the-badge&logo=&logoColor=white) ![static badge](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=&logoColor=white) ![static badge](https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=&logoColor=white) ![static badge](https://img.shields.io/badge/Debian-red?style=for-the-badge&logo=&logoColor=white)  ![static badge](https://img.shields.io/badge/MariaDB-blue?style=for-the-badge&logo=&logoColor=white)  
-
-</br>
+![static badge](https://img.shields.io/badge/C-black?style=for-the-badge&logo=&logoColor=white) ![static badge](https://img.shields.io/badge/C++-white?style=for-the-badge&logo=&logoColor=black)
+![static badge](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=&logoColor=white) ![static badge](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=&logoColor=yellow) ![static badge](https://img.shields.io/badge/Shell-green?style=for-the-badge&logo=&logoColor=white) ![static badge](https://img.shields.io/badge/Debian-red?style=for-the-badge&logo=&logoColor=white)  ![static badge](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=&logoColor=white)  
                     
 </div>         
  
-<hr>
-
-<div>
- 
-<h3> 📖 Learning </h3>    
- 
-![static badge](https://img.shields.io/badge/C%7CLang-black?style=for-the-badge&logo=&logoColor=white) ![static badge](https://img.shields.io/badge/Shell-green?style=for-the-badge&logo=&logoColor=white) ![static badge](https://img.shields.io/badge/Makefile-grey?style=for-the-badge&logo=&logoColor=white)
-
-</div>
-
-</br>
-           
-<hr>  
-
-<div>
- 
-<h3> 🛠️ Tools </h3>    
- 
-![static badge](https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=&logoColor=white) ![static badge](https://img.shields.io/badge/VS-CODE-blue?style=for-the-badge&logo=&logoColor=white) ![static badge](https://img.shields.io/badge/Trello-blue?style=for-the-badge&logo=&logoColor=white) ![static badge](https://img.shields.io/badge/Linux-Ubuntu-orange?style=for-the-badge&logo=&logoColor=white)
-
-</div>
-
-</br>
-
 <hr>
 
 <h3> 4️⃣2️⃣ projects </h3>
