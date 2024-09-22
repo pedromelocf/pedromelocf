@@ -65,6 +65,10 @@ As a result, 42 students develop key soft skills, such as critical thinking, cre
  <a href="https://github.com/pedromelocf/42_philosophers" target="_blank">
   <img src="https://github.com/pedromelocf/42_utilities/blob/master/philosopherse.png" />
  </a>
+
+ <a href="https://github.com/pedromelocf/42_minishell" target="_blank">
+  <img src="https://github.com/pedromelocf/42_utilities/blob/master/minishellm.png" />
+ </a>
  
 </p>
 
