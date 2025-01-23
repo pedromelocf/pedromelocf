@@ -20,8 +20,8 @@ As a result, 42 students develop key soft skills, such as critical thinking, cre
 
 <h3> 🏅 Skills/Experiences </h3>
  
-![static badge](https://img.shields.io/badge/C-black?style=for-the-badge&logo=&logoColor=white) ![static badge](https://img.shields.io/badge/C++-white?style=for-the-badge&logo=&logoColor=black)
-![static badge](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=&logoColor=white) ![static badge](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=&logoColor=yellow) ![static badge](https://img.shields.io/badge/Shell-green?style=for-the-badge&logo=&logoColor=white) ![static badge](https://img.shields.io/badge/Debian-red?style=for-the-badge&logo=&logoColor=white)  ![static badge](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=&logoColor=white)  
+![static badge](https://img.shields.io/badge/C-black?style=for-the-badge&logo=&logoColor=white) ![static badge](https://img.shields.io/badge/C++-white?style=for-the-badge&logo=&logoColor=black) ![static badge](https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=&logoColor=white)
+![static badge](https://img.shields.io/badge/Python-python?style=for-the-badge&logo=&logoColor=yellow) ![static badge](https://img.shields.io/badge/Shell-green?style=for-the-badge&logo=&logoColor=white) ![static badge](https://img.shields.io/badge/Debian-red?style=for-the-badge&logo=&logoColor=white)  ![static badge](https://img.shields.io/badge/postgres-blue?style=for-the-badge&logo=&logoColor=white)  ![static badge](https://img.shields.io/badge/nodejs-green?style=for-the-badge&logo=&logoColor=white) ![static badge](https://img.shields.io/badge/flutter-blue?style=for-the-badge&logo=&logoColor=white) ![static badge](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=&logoColor=white) ![static badge](https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=&logoColor=white) 
                     
 </div>         
  
@@ -72,6 +72,10 @@ As a result, 42 students develop key soft skills, such as critical thinking, cre
 
   <a href="https://github.com/pedromelocf/42_netpractice" target="_blank">
   <img src="https://github.com/pedromelocf/utilities/blob/master/netpracticem.png" />
+ </a>
+
+  <a href="https://github.com/pedromelocf/42_cub3d" target="_blank">
+  <img src="https://github.com/pedromelocf/42_utilities/blob/master/cub3dm.png" />
  </a>
  
 </p>
