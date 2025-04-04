@@ -20,8 +20,12 @@ As a result, 42 students develop key soft skills, such as critical thinking, cre
 
 <h3> 🏅 Skills/Experiences </h3>
  
-![static badge](https://img.shields.io/badge/C-black?style=for-the-badge&logo=&logoColor=white) ![static badge](https://img.shields.io/badge/C++-white?style=for-the-badge&logo=&logoColor=black) ![static badge](https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=&logoColor=white)
-![static badge](https://img.shields.io/badge/Python-python?style=for-the-badge&logo=&logoColor=yellow) ![static badge](https://img.shields.io/badge/Shell-green?style=for-the-badge&logo=&logoColor=white) ![static badge](https://img.shields.io/badge/Debian-red?style=for-the-badge&logo=&logoColor=white)  ![static badge](https://img.shields.io/badge/postgres-blue?style=for-the-badge&logo=&logoColor=white)  ![static badge](https://img.shields.io/badge/nodejs-green?style=for-the-badge&logo=&logoColor=white) ![static badge](https://img.shields.io/badge/flutter-blue?style=for-the-badge&logo=&logoColor=white) ![static badge](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=&logoColor=white) ![static badge](https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=&logoColor=white) 
+![static badge](https://img.shields.io/badge/C-black?style=for-the-badge&logo=&logoColor=white) ![static badge](https://img.shields.io/badge/C++-white?style=for-the-badge&logo=&logoColor=black) ![static badge](https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=&logoColor=white) ![static badge](https://img.shields.io/badge/Python-python?style=for-the-badge&logo=&logoColor=yellow)
+![static badge](https://img.shields.io/badge/Shell-green?style=for-the-badge&logo=&logoColor=white) ![static badge](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=&logoColor=white)
+![static badge](https://img.shields.io/badge/Debian-red?style=for-the-badge&logo=&logoColor=white)  ![static badge](https://img.shields.io/badge/postgres-blue?style=for-the-badge&logo=&logoColor=white) 
+![static badge](https://img.shields.io/badge/nodejs-green?style=for-the-badge&logo=&logoColor=white) ![static badge](https://img.shields.io/badge/flutter-blue?style=for-the-badge&logo=&logoColor=white)
+![static badge](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=&logoColor=white) ![static badge](https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=&logoColor=white) 
+![static badge](https://img.shields.io/badge/AWS-yellow?style=for-the-badge&logo=&logoColor=white) 
                     
 </div>         
  
@@ -30,8 +34,10 @@ As a result, 42 students develop key soft skills, such as critical thinking, cre
 <h3> 4️⃣2️⃣ projects </h3>
 
 <p align="center">
+  
  <img src="https://github.com/pedromelocf/utilities/blob/master/phase_onee.png" />
- </p>
+ 
+</p>
 
 <p align="center">
   <a href="https://github.com/pedromelocf/42_libft" target="_blank">
@@ -77,20 +83,12 @@ As a result, 42 students develop key soft skills, such as critical thinking, cre
   <a href="https://github.com/pedromelocf/42_cub3d" target="_blank">
   <img src="https://github.com/pedromelocf/42_utilities/blob/master/cub3dm.png" />
  </a>
- 
-</p>
-
-</br>
 
 <hr>
 
-<h3> I swimmed at 4️⃣2️⃣ piscine in June 2023 </h3>
-
-<p align="center">
-   <img height="150em" src="https://i.imgur.com/Y1TAMmm.png"/> 
+ [![pmelo-ca's 42 projects](https://42term.vercel.app/api/widget/projects/pmelo-ca?theme=dark)](https://42term.vercel.app)
+ 
 </p>
-
-</br>
 
 <hr>
 
