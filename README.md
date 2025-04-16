@@ -106,8 +106,4 @@ As a result, 42 students develop key soft skills, such as critical thinking, cre
   <img src="https://github.com/pedromelocf/42_utilities/blob/master/inception.png" />
  </a>
 
-<hr>
-
- [![pmelo-ca's 42 projects](https://42term.vercel.app/api/widget/projects/pmelo-ca?theme=dark)](https://42term.vercel.app)
- 
 </p>
