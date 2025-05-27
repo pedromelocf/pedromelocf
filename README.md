@@ -3,7 +3,6 @@
 <h2> 👋 Hi there, my name is Pedro! Check out my social profiles </h2>
 <a href="https://www.linkedin.com/in/pedro-melo-325531192" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
  <a href="https://www.pedromelodev.com" target="_blank"><img src="https://img.shields.io/badge/site%7Cblog-black?style=for-the-badge&logo=&logoColor=white" target="_blank"></a>   
- <a href="https://www.twitch.tv/pedromelodev" target="_blank"><img src="https://img.shields.io/badge/Twitch-purple?style=for-the-badge&logo=&logoColor=white" target="_blank"></a>   
 
 <h4>👨🏼‍💻 I’m currently learning software engineering at <a href="https://www.42network.org" target="_blank">42 Network</a> and also seeking a bachelor in Statistics at Anhembi Morumbi.</h4>
 <h4>🤔 I’m looking to dive deep into quant trading, trading robots, algorithmic trading, APIs and web automation.</h4>
